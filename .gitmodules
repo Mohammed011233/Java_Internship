@@ -1,0 +1,3 @@
+[submodule "productCatalog-UI/product-catalog"]
+	path = productCatalog-UI/product-catalog
+	url = https://github.com/Mohammed011233/Java_Internship.git
